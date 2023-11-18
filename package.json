@@ -1,0 +1,20 @@
+{
+  "name": "prueba",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.39.0",
+    "@types/node": "^20.9.0"
+  },
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "docxtemplater": "^3.40.3",
+    "dotenv": "^16.3.1",
+    "jszip": "^3.10.1"
+  }
+}
